@@ -327,7 +327,7 @@ public class Main {
         System.out.println(" (Activity: " + optimizedSequence.activity + ")");
 
         // variables for the GUI's initialization
-        final String version = "2.4.1";
+        final String version = "2.4.2";
         final JFrame display = new JFrame("IGEMGUI " + version);
 
         // specify headers for the data table
